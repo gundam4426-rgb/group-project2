@@ -1,2 +1,3 @@
 hi
 feature a
+feature b
